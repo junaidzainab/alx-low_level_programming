@@ -13,7 +13,7 @@ int _strlen(char *s)
 	{
 		i++;
 	}
-	1 = i;
+	i = 1;
 	return (l);
 }
 
