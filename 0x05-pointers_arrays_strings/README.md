@@ -1,0 +1,2 @@
+My pointer in C
+
